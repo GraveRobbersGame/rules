@@ -24,6 +24,8 @@ All art assets involved in this project are released under the [GROS Free Licens
 
 GROS can be played with 2-6 players, but the sweet spot is really 2-4.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iENiUC061IY?si=MAZArZ89XC1Gb_oN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Deck Building and Feature Packs
 
 To start, each Player builds a deck of **50 unique cards**, including 3 ***Roll the Credits*** cards. The rest of the body of your deck can be any combination of card types, but if you keep approximately to the following ratios it tends to stay well-balanced:
@@ -44,6 +46,8 @@ Each Pack will be outlined on the **[Card List](/cards/)** for its release.
 
 Standard decks can be readily made by choosing 3 Feature Packs, and picking two additional cards of your choice. Shuffle them all together and you're ready to play.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ldGYL_nzXM?si=E1Cqqvb0G2JRPe0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Movie Title
 
 If your Movie does not [already have a Title](#titled-decks), each player shuffles their deck and reveals **4 cards**.
@@ -58,7 +62,7 @@ For example, if we have "Demon," "Hollow," "Shriek," and "Satanic" we could have
 
 Write down the Title on a piece of paper where they can be seen during play and shuffle the cards back into the deck. Each word in the Title may be worth bonus points in your Final Score.
 
-### Initial Set Up
+### Initial Setup
 
 Each player draws 6 cards. If the initial draw has no Characters with a positive Defense, they may reveal and discard that hand and draw 6 more cards. This may be repeated as many times as necessary.
 
@@ -81,6 +85,8 @@ The **Establishing Shot** is the first round of the game, where each Player is *
 
 After the first round is over, play begins normally and the gloves come off.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cI2Bkkye28w?si=70VfWuGuOI406jPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Order of Play
 
 On their turn, each Player performs the following actions, in order:
@@ -90,6 +96,8 @@ On their turn, each Player performs the following actions, in order:
 1. **Play** – A Player may play as many cards as they can afford. Any type of card may be played during your turn in any order, but Special Effects cards are the only type that can be played by someone who isn't the active Player. Props and Characters are generally added to your own movie, while Creatures are used to attack your opponents (see: [Attacks](#attacks)). Locations can be played into any Movie, and Special Effect cards do whatever is printed on them. Further details of the workings of each type of card are found in the [Card Types](#the-cards) section of the rules below.
 
 1. **Discard** – Once you have played all the cards you wish to, if you are above your hand limit, you must discard the excess into your Graveyard. You may always choose to discard more cards than you are obligated to throw away. Discarding without generating an effect is a signal that your turn is over.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1FPbG7zBLnw?si=2XahB8aoMzUS7rPO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Popcorn
 
@@ -106,6 +114,8 @@ The cost to play a card is the number of Popcorn kernels shown on the colored ba
 Tipped cards are otherwise regularly in play (i.e. their Abilities work, they count towards a Movie's Defense, etc.) and any tipped cards in a Movie are untipped when a Player Fills Up at the start of *their* turn.
 
 Finally any Popcorn unspent when a turn passes, disappears — forever lost between the seats.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TMPrMOpEr6E?si=QFKeMYr_G3OkvgDZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Cards
 
@@ -187,6 +197,8 @@ However, Plot Twists do have some limitations: You may only play one of them fac
 
 Before you play a Roll the Credits you'll want to be wary of any Plot Twists on the board. Banked Points, where they don't count towards a Player's Defense, do count towards their final score (the same goes for Knocked Out cards). And then there's always the possibility that a Twist may go off when the credits roll. So be strategic when you Roll the Credits!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-qfmeM803k?si=lDSKFaB5KdWOaJu7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Attacks
 
 A Player initiates a Creature attack when playing a Creature card on another Player's Movie or when a card states that an attack is made — in which case that card is considered the attack's origin.
@@ -212,6 +224,8 @@ The active Player may make as many attacks as they can afford in a single turn, 
 ### Direct Affect Rule
 
 A final note: Only Special Effects, Abilities, and other things that *directly affect the outcome of the attack* are playable until the Attack is fully resolved. For example, playing *"Production Value"* to add +2 to a 'Female' Character in the defending Movie could save the defending Movie from the attack, but using *"Back to the Home"* to eliminate an 'Old' Character from the *attacking* Player's Movie has no impact on the attack, so it cannot be played until after it is over.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4mhu4NUU2oo?si=DS_mWM7yMd0-Qaau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Special Attacks
 
@@ -247,6 +261,7 @@ The base **Defense Strength** is equal to the Victim's Total Defense plus their 
 
 Unless the Ability states otherwise, the loser of the Brawl (the initial Attacker or the Victim) is **Knocked Out**.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nJHiLn1c0Dw?si=wrKStrCiSw9d1zMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The End
 
