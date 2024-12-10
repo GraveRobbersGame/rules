@@ -1,4 +1,4 @@
-# The Rules (2024.06.06)
+# The Rules (2024.12.09)
 
 # Grave Robbers From Outer Space (GROS)
 ## Presented by The Academy of Resurrected Games and Holdings (A.R.G.H.)
@@ -95,7 +95,7 @@ On their turn, each Player performs the following actions, in order:
 
 1. **Play** – A Player may play as many cards as they can afford. Any type of card may be played during your turn in any order, but Special Effects cards are the only type that can be played by someone who isn't the active Player. Props and Characters are generally added to your own movie, while Creatures are used to attack your opponents (see: [Attacks](#attacks)). Locations can be played into any Movie, and Special Effect cards do whatever is printed on them. Further details of the workings of each type of card are found in the [Card Types](#the-cards) section of the rules below.
 
-1. **Discard** – Once you have played all the cards you wish to, if you are above your hand limit, you must discard the excess into your Graveyard. You may always choose to discard more cards than you are obligated to throw away. Discarding without generating an effect is a signal that your turn is over.
+1. **Discard** – Once you have played all the cards you wish to, if you are above your hand limit, you must discard the excess face-up into your Graveyard. You may always choose to discard more cards than you are obligated to throw away. Discarding without generating an effect is a signal that your turn is over.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1FPbG7zBLnw?si=2XahB8aoMzUS7rPO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -187,7 +187,7 @@ Where most Special Effects are discarded right after they are played and resolve
 
 Plot Twists have no Popcorn cost, and when you play one from your hand, you must conspicuously place it face-down to the side of your Movie. (You may peek at it whenever you want, but your opponents are not allowed to see which card it is — yet.)
 
-Once the conditions in the Plot Twist's Ability text are met, you may turn it face up, and **Bank** the number of points displayed in the upper-left-hand corner. Banked points do not count towards a Movie's Defense, but they do count towards your final score. Once a Twist is Banked, any other Abilities they have come into play. Virtually all of them also generate Popcorn. Others may give you additional win conditions or grant you other tricks.
+Once the conditions in the Plot Twist's Ability text are met, you may turn it face up, and **Bank** the number of points displayed in the upper-left-hand corner. Banked points do not count towards a Movie's Defense, but they do count towards your final score. Once a Twist is Banked it sticks around in your Movie. Any other Abilities they have also come into play. Virtually all of them also generate Popcorn. Others may give you additional win conditions or grant you other tricks.
 
 However, Plot Twists do have some limitations: You may only play one of them face-down per turn. They *can* be removed from Movies — and where this doesn't affect any Banked points, their Popcorn Buckets and Abilities don't work from the Graveyard or outside the game.
 
@@ -302,7 +302,7 @@ There are a number of **Play Zones** where cards can live, and they are referred
 * **Deck** — This is your stack of cards that are placed face-down on the table that you draw from.
 * **Hand** — Where your cards end up after you draw them. The general hand limit is 6 cards, but this can change depending on the type of game or in-game effects.
 * **Movie** — Where all the fun happens. This is the main play zone of the game where cards are considered ***in play*** and most are face-up. Sometimes we refer to "casting" Characters into one's Movie, which means putting them in play.
-* **Graveyard** — A bit of important housekeeping when dealing with cards that are **discarded** or **killed**. These cards end up in their Owner's Graveyard regardless of the Movie they may currently be in or who controls them.
+* **Graveyard** — A bit of important housekeeping when dealing with cards that are **discarded** or **killed**. These cards end up face-up in their Owner's Graveyard regardless of the Movie they may currently be in or who controls them. The contents of each player's Graveyard are public knowledge.
 * **Removal** — This is the editing room floor. When a card is **removed from the game**, it is set aside from all other Play Zones and is *out of play* until the game is over (i.e. it's not coming back from the grave).
 
 ## Card States
@@ -342,15 +342,23 @@ If a card gains a Trait in opposition to a previously existing Trait, the previo
 
 Other Traits grant specific Abilities which should also be written in the Ability text of the card (aka **Trait Abilities**). For reference, there are Trait Description references that can be played on the game table to keep track of these, but generally speaking:
 
+* **Animal** ­– 'Animal' Characters may not use non-'Clothing' Props.
 * **Aquatic** – 'Aquatic' Creatures have double their printed Stat at an 'Aquatic' Location.
+* **Cool** – 'Cool' Characters and Creatures cannot have Special Effects played against them.
 * **Cop** – 'Gun' Props have double their printed Stat in the hands of a 'Cop'.
 * **Crew** – Actors and Production Crew members. They cannot be targeted by attacks or use Props.
+* **Cursed** – 'Cursed' Props cannot be moved between Characters normally, and may be played into other Movies.
 * **Event** – Locations with the Trait 'Event' can be combined with existing Locations (i.e. Locations already in play) that share a Trait other than 'Event'. Otherwise they can be played on their own.
-* **Ghoul** — Cannot defend against 'Vampires'. (Treat them as Knocked Out until the end of the attack.)
+* **Food** – 'Food' Props can be discarded from play to draw a card.
+* **Ghoul** – Cannot defend against 'Vampires'. (Treat them as Knocked Out until the end of the attack.)
+* **Indoors** – 'Indoors' Locations can be attached to 'Buildings'.
+* **Lucky** – A 'Lucky' Character can only be chosen as a Victim when there is no other choice. It is in opposition to 'Unlucky'.
 * **Psycho** – When a 'Psycho' attacks, any Player (not just the active Player) may play Weapon Props to boost the Psycho's Attack Strength. These Weapons are all sent to the Graveyard after the attack is resolved. Ignore the Popcorn cost of any Weapons played in such a manner.
 * **Swarm** – 'Weapon' Props cannot defend against 'Swarm' attacks. (Treat them as Knocked Out until the end of the attack.)
-* **Unlucky** – A Character who is 'Unlucky' must be targeted by an attack first, and Characters in their Ability text can be 'Unlucky' against certain kinds of attacks or situations. If multiple Characters are 'Unlucky' at a time, the Attacker may choose the victim among them.
+* **Treasure** – 'Treasures' often count for additional points in the final score.
+* **Unlucky** – An 'Unlucky' Character must be chosen as a Victim first if possible. Characters in their Ability text can be 'Unlucky' against certain kinds of attacks or situations. If multiple Characters are 'Unlucky' at a time, the Attacker may choose the victim among them. It is also in opposition to 'Lucky'.
 * **Vampire** — Characters with the 'Vampire' Trait may launch non-lethal 'Supernatural' [Duels](#duels). Instead of killing a Victim, the Victim gains the Trait 'Ghoul'. (see above)
+* **Zombie** – 'Zombie' Characters are also 'Dumb' and 'Supernatural', and cannot use Abilities (which includes Trait Abilities), Popcorn, or Props. Their Traits otherwise remain intact.
 
 If you are playing a [Classic GROS](#classic-play) game, there are a bunch of Traits that work a little bit differently than are described here.
 
