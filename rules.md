@@ -323,7 +323,7 @@ Cards in GROS can have several states when they're *in play*:
 
 **Abilities** are all of the special powers that a card has explained in their Abilities text.
 
-A **Trait Ability** is an Ability granted by having a particular Trait. (See below.)
+A **Trait Ability** is an Ability granted by having a particular Trait. (See below.) If a Character loses that Trait, they also lose the associated Ability.
 
 An **Activated Ability** is an ability with a listed cost (tipping, spending Popcorn, discarding cards, killing Characters) that must be satisfied first. Unless otherwise stated, Activated Abilities can be used like Special Effects.
 
